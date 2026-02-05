@@ -3,37 +3,54 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* ---------------- CONTAINER ---------------- */
 .chat-container {
   width: 420px;
   margin: 40px auto;
   background: white;
-  border-radius: 12px;
+  border-radius: 14px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.1);
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
+/* ---------------- HEADER ---------------- */
 header {
   padding: 16px;
   background: #0f172a;
   color: white;
-  border-radius: 12px 12px 0 0;
   text-align: center;
 }
 
-#chat-box {
-  padding: 16px;
-  height: 400px;
-  overflow-y: auto;
+header h2 {
+  margin: 0;
 }
 
+header p {
+  margin: 6px 0 0;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+/* ---------------- CHAT BOX ---------------- */
+#chat-box {
+  padding: 16px;
+  height: 420px;
+  overflow-y: auto;
+  background: #fafafa;
+}
+
+/* ---------------- MESSAGES ---------------- */
 .message {
   margin-bottom: 12px;
+  line-height: 1.4;
 }
 
 .user {
   text-align: right;
   color: #2563eb;
+  font-weight: 500;
 }
 
 .bot {
@@ -41,22 +58,25 @@ header {
   color: #111827;
 }
 
+/* ---------------- INPUT ROW ---------------- */
 .input-row {
   display: flex;
   padding: 10px;
   border-top: 1px solid #ddd;
+  background: #fff;
 }
 
 .input-row input {
   flex: 1;
-  padding: 8px;
+  padding: 8px 10px;
   border-radius: 6px;
   border: 1px solid #ccc;
+  font-size: 14px;
 }
 
 .input-row button {
   margin-left: 8px;
-  padding: 8px 12px;
+  padding: 8px 14px;
   border: none;
   background: #2563eb;
   color: white;
@@ -64,14 +84,80 @@ header {
   cursor: pointer;
 }
 
+.input-row button:hover {
+  background: #1d4ed8;
+}
+
+/* ---------------- UPLOAD ROW ---------------- */
 .upload-row {
   display: flex;
   justify-content: space-around;
   padding: 10px;
   border-top: 1px solid #ddd;
+  background: #f9fafb;
 }
 
-.upload-row label {
+.upload-btn {
   cursor: pointer;
   color: #2563eb;
+  font-size: 14px;
+  user-select: none;
+}
+
+.upload-btn:hover {
+  text-decoration: underline;
+}
+
+/* ---------------- IMAGE PREVIEW ---------------- */
+.image-preview {
+  max-width: 200px;
+  margin: 10px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* ---------------- JEWELLERY CARD ---------------- */
+.jewel-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 10px;
+  margin-bottom: 14px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.jewel-card img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 6px;
+}
+
+.jewel-card p {
+  margin: 0;
+  font-size: 14px;
+  color: #111827;
+}
+
+/* ---------------- QUICK ACTIONS ---------------- */
+.quick-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.quick-actions button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #2563eb;
+  color: white;
+  font-size: 13px;
+}
+
+.quick-actions button:hover {
+  background: #1d4ed8;
 }

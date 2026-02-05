@@ -1,24 +1,24 @@
 def build_explanation_prompt(query_text, retrieved_items):
-    context = ""
+    context_lines = []
 
-    for i, item in enumerate(retrieved_items, start=1):
-        context += (
-            f"{i}. Category: {item.get('category', 'unknown')}\n"
-            f"   Image Path: {item.get('image_path', 'unknown')}\n\n"
+    for item in retrieved_items[:5]:
+        context_lines.append(
+            f"- Category: {item.get('category', 'unknown')}"
         )
+
+    context = "\n".join(context_lines)
 
     prompt = f"""
 You are a jewellery recommendation assistant.
 
-User request:
+User query:
 "{query_text}"
 
-Retrieved jewellery designs:
+Retrieved jewellery categories:
 {context}
 
-Explain clearly WHY these jewellery designs match the user's request.
-Base your explanation ONLY on the retrieved designs above.
-Do not add extra assumptions.
+Explain in ONE short sentence why these items match the user's request.
+Be concise. Do not list items. Do not repeat the query.
 """
 
-    return prompt
+    return prompt.strip()

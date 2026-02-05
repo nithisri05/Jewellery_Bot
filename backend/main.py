@@ -1,140 +1,94 @@
 import sys
 import os
 import tempfile
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from pydantic import BaseModel
-from typing import List
 from PIL import Image
 
-# -----------------------------
-# Fix Python path
-# -----------------------------
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
-# -----------------------------
-# Internal imports
-# -----------------------------
 from backend.retrieval.chat_engine import ChatEngine
-from backend.retrieval.image_upload_engine import ImageUploadEngine
 from backend.input.voice_input import VoiceInputEngine
 from backend.input.handwriting_input import HandwritingInputEngine
 
-# -----------------------------
-# FastAPI app
-# -----------------------------
-app = FastAPI(
-    title="Multimodal Jewellery Chatbot",
-    description="Text, Image, Voice, and Handwriting based jewellery retrieval",
-    version="1.0"
-)
+app = FastAPI(title="Multimodal Jewellery Chatbot", version="1.0")
 
-# -----------------------------
-# CORS
-# -----------------------------
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# -----------------------------
-# Static files (images)
-# -----------------------------
-app.mount(
-    "/images",
-    StaticFiles(directory="data/images"),
-    name="images"
-)
+app.mount("/images", StaticFiles(directory="data/images"), name="images")
 
-# -----------------------------
-# Engines (loaded once)
-# -----------------------------
 chat_engine = ChatEngine()
-image_engine = ImageUploadEngine()
 voice_engine = VoiceInputEngine()
 handwriting_engine = HandwritingInputEngine()
 
-# -----------------------------
-# Pydantic models
-# -----------------------------
-class JewelleryItem(BaseModel):
-    id: str
-    category: str
-    image_path: str
+# ---------------- TEXT ONLY ----------------
+@app.post("/chat")
+def chat(payload: dict):
+    return chat_engine.chat(payload.get("message", ""))
 
-class ChatRequest(BaseModel):
-    message: str
-
-class ChatResponse(BaseModel):
-    query: str
-    results: List[JewelleryItem]
-    explanation: str
-
-# -----------------------------
-# TEXT → IMAGE
-# -----------------------------
-@app.post("/chat", response_model=ChatResponse)
-def chat(request: ChatRequest):
-    return chat_engine.chat(request.message)
-
-# -----------------------------
-# IMAGE → IMAGE
-# -----------------------------
+# ---------------- IMAGE + TEXT ----------------
 @app.post("/search-by-image")
-async def search_by_image(file: UploadFile = File(...)):
+async def search_by_image(
+    file: UploadFile = File(...),
+    query: str = Form(...)
+):
     image = Image.open(file.file).convert("RGB")
-    results, explanation = image_engine.search(image)
+
+    # Combine image context + text query
+    combined_query = query
+
+    response = chat_engine.engine.retrieve(
+        query_text=combined_query,
+        previous_intent=chat_engine.last_intent
+    )
+
+    if response.get("supported") and response.get("intent"):
+        chat_engine.last_intent = response["intent"]
 
     return {
-        "results": results,
-        "explanation": explanation
+        "query": combined_query,
+        **response
     }
 
-# -----------------------------
-# VOICE → IMAGE
-# -----------------------------
+# ---------------- VOICE ----------------
 @app.post("/search-by-voice")
 async def search_by_voice(file: UploadFile = File(...)):
-    # Save audio temporarily
     suffix = os.path.splitext(file.filename)[1]
-    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as temp_audio:
-        temp_audio.write(await file.read())
-        temp_audio_path = temp_audio.name
+    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+        tmp.write(await file.read())
+        temp_path = tmp.name
 
-    # Speech → text
-    text_query = voice_engine.speech_to_text(temp_audio_path)
+    text_query = voice_engine.speech_to_text(temp_path)
+    os.remove(temp_path)
 
-    # Text → image retrieval
-    results = chat_engine.engine.retrieve_from_text(text_query)
+    response = chat_engine.engine.retrieve(
+        query_text=text_query,
+        previous_intent=chat_engine.last_intent
+    )
 
-    # Cleanup
-    os.remove(temp_audio_path)
+    if response.get("supported") and response.get("intent"):
+        chat_engine.last_intent = response["intent"]
 
-    return {
-        "query": text_query,
-        "results": results,
-        "explanation": "Results retrieved using voice input."
-    }
+    return {"query": text_query, **response}
 
-# -----------------------------
-# HANDWRITING → IMAGE
-# -----------------------------
+# ---------------- HANDWRITING ----------------
 @app.post("/search-by-handwriting")
 async def search_by_handwriting(file: UploadFile = File(...)):
     image = Image.open(file.file).convert("RGB")
-
-    # OCR → text
     text_query = handwriting_engine.extract_text(image)
 
-    # Text → image retrieval
-    results = chat_engine.engine.retrieve_from_text(text_query)
+    response = chat_engine.engine.retrieve(
+        query_text=text_query,
+        previous_intent=chat_engine.last_intent
+    )
 
-    return {
-        "query": text_query,
-        "results": results,
-        "explanation": "Results retrieved using handwritten input."
-    }
+    if response.get("supported") and response.get("intent"):
+        chat_engine.last_intent = response["intent"]
+
+    return {"query": text_query, **response}

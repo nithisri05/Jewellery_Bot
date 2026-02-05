@@ -14,34 +14,58 @@
     <p>Search using text, image, voice, or handwriting</p>
   </header>
 
+  <!-- Chat messages -->
   <div id="chat-box"></div>
 
   <!-- Text input -->
-  <div class="input-row">
-    <input type="text" id="textInput" placeholder="Type your jewellery query..." />
-    <button onclick="sendText()">Send</button>
-  </div>
+  <form class="input-row" onsubmit="event.preventDefault(); sendText();">
+    <input
+      type="text"
+      id="textInput"
+      placeholder="Type your jewellery query..."
+      autocomplete="off"
+    />
+    <button type="submit">Send</button>
+  </form>
 
   <!-- Upload buttons -->
   <div class="upload-row">
-    <label>
+    <label class="upload-btn">
       📷 Image
-      <input type="file" id="imageInput" accept="image/*" hidden onchange="sendImage()" />
+      <input
+        type="file"
+        id="imageInput"
+        accept="image/*"
+        hidden
+        onchange="sendImage()"
+      />
     </label>
 
-    <label>
+    <label class="upload-btn">
       🎙 Voice
-      <input type="file" id="voiceInput" accept="audio/*" hidden onchange="sendVoice()" />
+      <input
+        type="file"
+        id="voiceInput"
+        accept="audio/*"
+        hidden
+        onchange="sendVoice()"
+      />
     </label>
 
-    <label>
+    <label class="upload-btn">
       ✍ Handwriting
-      <input type="file" id="handwritingInput" accept="image/*" hidden onchange="sendHandwriting()" />
+      <input
+        type="file"
+        id="handwritingInput"
+        accept="image/*"
+        hidden
+        onchange="sendHandwriting()"
+      />
     </label>
   </div>
 
 </div>
 
-<script src="script.js"></script>
+<script src="script.js" defer></script>
 </body>
 </html>
