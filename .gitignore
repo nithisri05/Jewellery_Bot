@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# HuggingFace / Torch cache
+.cache/
+*.pt
+*.bin
+
+# FAISS index (optional)
+data/faiss.index
+
+# OS files
+.DS_Store
+Thumbs.db

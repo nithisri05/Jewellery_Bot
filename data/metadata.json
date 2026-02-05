@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "cedb6e68-506e-4833-a656-c4a9c0e6c7e6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_1.jpg"
+  },
+  {
+    "id": "ddfbbdac-d59f-48a1-9353-d75d01c42117",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_10.jpg"
+  },
+  {
+    "id": "b674949f-81f6-4e8b-9ed7-5f07e53cdccc",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_100.jpg"
+  },
+  {
+    "id": "3aee49f2-0d68-46f4-9e42-ba7fdf605a3b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_101.jpg"
+  },
+  {
+    "id": "c4a32e36-89e7-485f-a808-78610094367e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_102.jpg"
+  },
+  {
+    "id": "c28d9f17-7fb9-4034-b6d6-557e5d40d0f3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_103.jpg"
+  },
+  {
+    "id": "555a4d25-d83e-4cf8-8df2-37b04f631eae",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_104.jpg"
+  },
+  {
+    "id": "7df90775-1e4c-4b63-bcc1-41e14d581373",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_105.jpg"
+  },
+  {
+    "id": "ee687048-ac49-416d-81af-927a4e859c83",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_106.jpg"
+  },
+  {
+    "id": "15dae59d-1000-4b52-a51c-f0c20f334f4f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_107.jpg"
+  },
+  {
+    "id": "68a0e80f-7f1c-43bf-8f2a-e40ded21f52a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_108.jpg"
+  },
+  {
+    "id": "c92d9987-9bf8-44ea-960a-b380ef47b8bf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_109.jpg"
+  },
+  {
+    "id": "a857a7b3-43d9-4793-9e0d-8793f4922c12",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_110.jpg"
+  },
+  {
+    "id": "f70568fd-c3c2-40e4-8191-9f08bfca541d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_111.jpg"
+  },
+  {
+    "id": "b6f95e03-3434-4371-996b-0fb8bc4a23c8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_112.jpg"
+  },
+  {
+    "id": "a573c817-71b9-4826-ab0b-650c08a2b39e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_113.jpg"
+  },
+  {
+    "id": "9f7d74ab-82cf-4f28-8979-54e8314a9554",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_114.jpg"
+  },
+  {
+    "id": "220c852f-5655-45bc-bd6e-0fe8ee0a7726",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_115.jpg"
+  },
+  {
+    "id": "6fd7fdb2-cf62-4700-931f-2e29cc18ae6d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_116.jpg"
+  },
+  {
+    "id": "2675b07c-bd53-48dd-a12d-4b7d3b60ba56",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_117.jpg"
+  },
+  {
+    "id": "d2707571-028a-47ae-8281-37d24485f555",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_118.jpg"
+  },
+  {
+    "id": "0c719caf-5c91-4e33-ac21-ed1c0056336f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_119.jpg"
+  },
+  {
+    "id": "e7e30a87-97b9-4398-a39a-dd71b675d4d7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_12.jpg"
+  },
+  {
+    "id": "e5b19f44-6441-4f47-88ca-fee90fc50fa7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_120.jpg"
+  },
+  {
+    "id": "151be6d2-4d57-4507-b2f7-f5d6c3f90001",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_121.jpg"
+  },
+  {
+    "id": "6f280c02-9fe4-47f4-8640-729ebc0f1b8a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_122.jpg"
+  },
+  {
+    "id": "296de643-0aff-4da3-98e2-3a461a19d3fa",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_123.jpg"
+  },
+  {
+    "id": "fade3249-e013-42ee-9aec-51de25dbdbf7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_124.jpg"
+  },
+  {
+    "id": "0f5fb315-7f4c-47eb-91f9-054303add347",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_125.jpg"
+  },
+  {
+    "id": "5931e695-fed2-4eeb-86e4-8847ffba62f1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_126.jpg"
+  },
+  {
+    "id": "54a5aec0-e81a-4643-929c-822c284bace4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_127.jpg"
+  },
+  {
+    "id": "67303a34-ea2d-43fd-be22-d7ef96846cd9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_128.jpg"
+  },
+  {
+    "id": "ffa0c729-0e5a-40e8-b9c6-42ad00571319",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_129.jpg"
+  },
+  {
+    "id": "25a1b57c-ae19-48ab-9378-2c80a62fb5c3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_130.jpg"
+  },
+  {
+    "id": "baca3a08-94e4-4c2b-905e-a2907263a546",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_131.jpg"
+  },
+  {
+    "id": "0e5d2c9a-32d5-4b9a-bb21-ad96a202c5c1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_132.jpg"
+  },
+  {
+    "id": "7193f0e6-b630-4065-9dca-301e09f1df1b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_133.jpg"
+  },
+  {
+    "id": "39a4c1b6-9559-431d-aba9-f4d4c8d30398",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_134.jpg"
+  },
+  {
+    "id": "fcfaa3a1-6751-4892-9424-39cd75769a12",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_135.jpg"
+  },
+  {
+    "id": "ba1a7c4e-571b-416b-bcc4-c1a671e2588a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_136.jpg"
+  },
+  {
+    "id": "4253e2fb-9991-40e9-9efb-bf075b53cf77",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_137.jpg"
+  },
+  {
+    "id": "76b7bac7-8c60-4243-a388-5374fb7a2307",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_138.jpg"
+  },
+  {
+    "id": "1b1c8a16-ec71-4d4c-9f1b-f612f58e86f0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_139.jpg"
+  },
+  {
+    "id": "d25a08dd-d608-40b9-abc6-d82362e21972",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_14.jpg"
+  },
+  {
+    "id": "25da9680-2a76-4c5b-b553-ab88a8d7976e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_141.jpg"
+  },
+  {
+    "id": "f7d571ce-f278-4455-907c-ac5a7d34798b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_143.jpg"
+  },
+  {
+    "id": "8b51534b-e4f5-4890-9efe-35c0ec263d76",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_144.jpg"
+  },
+  {
+    "id": "4e9ce4fe-8baa-417e-bad2-962968a8421d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_145.jpg"
+  },
+  {
+    "id": "9be918de-0bee-4243-90c9-af5344042780",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_146.jpg"
+  },
+  {
+    "id": "bf881a98-cbda-49d8-a972-37e56bedfdfa",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_147.jpg"
+  },
+  {
+    "id": "00152bc0-248e-4de6-ab34-7713ec97f8f2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_149.jpg"
+  },
+  {
+    "id": "96a1a31d-4168-4d4b-992e-8851a32ce4fc",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_15.jpg"
+  },
+  {
+    "id": "bca51bdf-aa11-4bad-9f9e-e1743b066684",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_151.jpg"
+  },
+  {
+    "id": "b50144c4-cbe9-4274-8fda-7808b15699b0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_153.jpg"
+  },
+  {
+    "id": "a71c496f-bd4c-476b-a415-15fd56fdf171",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_154.jpg"
+  },
+  {
+    "id": "84363572-e47a-40a2-96e6-0c63142cdf6f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_155.jpg"
+  },
+  {
+    "id": "dab96c72-db9a-479a-8191-4f343b54aa6d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_156.jpg"
+  },
+  {
+    "id": "1225f722-cbf4-4cd7-98cd-48819146f20c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_158.jpg"
+  },
+  {
+    "id": "de6f7109-7dac-44ac-b658-1c7545a758f2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_16.jpg"
+  },
+  {
+    "id": "a45cd2c2-1e07-4eeb-91e7-5943b49e55e5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_160.jpg"
+  },
+  {
+    "id": "c4a78d3f-7a4e-4dfa-8cec-a3063eb0273e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_161.jpg"
+  },
+  {
+    "id": "9329a086-4eb6-451e-a54b-9e14e2f1ef4d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_162.jpg"
+  },
+  {
+    "id": "5c48a154-b6f6-4a6b-bd2a-2322e1536f29",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_164.jpg"
+  },
+  {
+    "id": "6f25a19b-898b-4a8f-8cb7-3f5d3a7e5be6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_165.jpg"
+  },
+  {
+    "id": "26928d4d-7204-423e-b25d-ce82ceba8cef",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_167.jpg"
+  },
+  {
+    "id": "953e8cf3-d4dd-4202-8dba-dd50b277087d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_169.jpg"
+  },
+  {
+    "id": "1e3708ac-fc51-4a2f-875d-1fe28296e615",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_170.jpg"
+  },
+  {
+    "id": "ff3b182c-3b0a-4a21-849f-510ffebb07d0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_171.jpg"
+  },
+  {
+    "id": "635320e3-01e4-418f-bc9a-c2b62cf78a30",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_172.jpg"
+  },
+  {
+    "id": "6ca73809-6f47-4025-94ea-bf332ea9b20d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_173.jpg"
+  },
+  {
+    "id": "bf0d11b3-74f0-472f-bd72-1859cc7eb0b0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_174.jpg"
+  },
+  {
+    "id": "47107e76-4265-4e0c-95e9-62367ed6fdb7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_175.jpg"
+  },
+  {
+    "id": "c090a1fb-58b4-4a60-8d32-c51c06ea6733",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_176.jpg"
+  },
+  {
+    "id": "e75256ec-f99c-4384-a32c-707246f26e4e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_177.jpg"
+  },
+  {
+    "id": "ac2edc2a-e3ba-49a0-a712-e5e1ed0eae22",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_178.jpg"
+  },
+  {
+    "id": "0f4b8214-e7eb-4f8e-a2a6-7d012d8cbf76",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_179.jpg"
+  },
+  {
+    "id": "54e8f0b8-fb11-4052-a949-8e70741d2a8f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_18.jpg"
+  },
+  {
+    "id": "660804a4-8d14-4c91-b152-9121aed283db",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_180.jpg"
+  },
+  {
+    "id": "a97d54a6-5971-4fca-9e3a-b9204293d4cd",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_181.jpg"
+  },
+  {
+    "id": "e7208e6e-7f1c-42fd-abe3-a6e20f17d4b7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_182.jpg"
+  },
+  {
+    "id": "6deb3631-82e2-4db1-9ccd-f2fde291f1f0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_183.jpg"
+  },
+  {
+    "id": "01ec0226-aba8-4439-a8fd-577efd1a93a9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_184.jpg"
+  },
+  {
+    "id": "a7e8c329-98bd-424a-b56b-6dd7f62cfd92",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_185.jpg"
+  },
+  {
+    "id": "dd8a4989-96d3-4513-a2f4-d1740278a4b1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_186.jpg"
+  },
+  {
+    "id": "308f8949-aa7e-44d3-a57e-a8dcef2b6cda",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_187.jpg"
+  },
+  {
+    "id": "90331bc0-af4f-4a6f-800f-d91d70dcbd74",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_188.jpg"
+  },
+  {
+    "id": "1cac844f-4978-45db-964b-85ce78d7a76b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_189.jpg"
+  },
+  {
+    "id": "de3aa5df-12af-49ca-a391-0bb31e54f7d2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_19.jpg"
+  },
+  {
+    "id": "64678e45-067d-4510-8388-0060e19116dc",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_190.jpg"
+  },
+  {
+    "id": "ff5af81d-cd9a-491c-bff9-f29bf72d9133",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_191.jpg"
+  },
+  {
+    "id": "145e3b81-1128-4f34-b766-c5553969a28f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_192.jpg"
+  },
+  {
+    "id": "8b551e16-3cb7-4400-96d8-465f3c6414b9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_193.jpg"
+  },
+  {
+    "id": "5d91d048-f5da-445d-90b6-82e332f6c816",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_194.jpg"
+  },
+  {
+    "id": "44b6b904-d63e-4073-8539-a11ff82f3ad1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_195.jpg"
+  },
+  {
+    "id": "aa59fda4-06e1-477d-bd86-06266de9d3b6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_196.jpg"
+  },
+  {
+    "id": "c2fecacf-7407-4204-ba22-1577d79e97c1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_197.jpg"
+  },
+  {
+    "id": "cb127928-394d-418e-8728-eb9603d66898",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_198.jpg"
+  },
+  {
+    "id": "63b3e7ab-ce04-42dc-8f7d-0ba8ba1bf188",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_199.jpg"
+  },
+  {
+    "id": "da5c8da9-7555-4b48-aec1-15843980a7f1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_2.jpg"
+  },
+  {
+    "id": "03d09a45-fbbc-4168-af6e-282a4d9e3148",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_20.jpg"
+  },
+  {
+    "id": "70ce296b-6657-4408-b262-8e7581d1735f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_200.jpg"
+  },
+  {
+    "id": "bfdb49fc-2332-4e3a-b7e7-e08d13b271d0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_201.jpg"
+  },
+  {
+    "id": "d16fca91-a80c-4e75-b523-91966350ad0b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_202.jpg"
+  },
+  {
+    "id": "abed8d68-28e1-4d12-80f0-afe97161c476",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_203.jpg"
+  },
+  {
+    "id": "ad604a21-82f7-4218-86b0-7f64b996d0db",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_204.jpg"
+  },
+  {
+    "id": "b8875cc7-0f54-4c1c-a203-1ac64571cada",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_205.jpg"
+  },
+  {
+    "id": "ccd50c20-52d7-4f3b-bae4-d03a0fbe950a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_206.jpg"
+  },
+  {
+    "id": "620cbdbe-da26-4201-b67b-6299437f60d6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_207.jpg"
+  },
+  {
+    "id": "bfbd8fae-c8b1-47c0-8963-d5db471111cf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_208.jpg"
+  },
+  {
+    "id": "352987f9-4939-411b-98b7-b86f9e3d636b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_209.jpg"
+  },
+  {
+    "id": "cb660986-9d08-4c35-9597-e18395ed4a5f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_21.jpg"
+  },
+  {
+    "id": "e05a37b6-ddba-4020-8ea2-29ad7fa3a2a1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_210.jpg"
+  },
+  {
+    "id": "f47c2276-5cc8-4ac2-95e0-4ba12a5d6dce",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_212.jpg"
+  },
+  {
+    "id": "632dc990-bec7-4ee7-9d12-e4a026caa1ea",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_213.jpg"
+  },
+  {
+    "id": "73ee281e-82bf-4f35-8fb5-b211412ff933",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_214.jpg"
+  },
+  {
+    "id": "930f2871-3418-4958-8896-da770c70a506",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_215.jpg"
+  },
+  {
+    "id": "3d959218-9923-4f6e-909f-11c058843df0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_216.jpg"
+  },
+  {
+    "id": "0cef1e73-dc5e-408a-8178-90fbeb97b55b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_217.jpg"
+  },
+  {
+    "id": "a32dbf11-c7a2-4000-96de-6c9841e8fe74",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_218.jpg"
+  },
+  {
+    "id": "b5df3721-2a84-4c35-bfc1-e70a9057d626",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_219.jpg"
+  },
+  {
+    "id": "8308463e-2cd6-41ba-b982-6058720ea027",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_22.jpg"
+  },
+  {
+    "id": "97dc7e4b-1810-46e1-818e-d1212c895e08",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_220.jpg"
+  },
+  {
+    "id": "af43ef5c-f932-4965-9b92-ae8901dfef9b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_221.jpg"
+  },
+  {
+    "id": "43ab4f0f-7c50-4f6b-955d-12a0a0571760",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_222.jpg"
+  },
+  {
+    "id": "7c4ef019-895d-4fc0-b080-6a0c0b466674",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_223.jpg"
+  },
+  {
+    "id": "3c772837-8973-4715-9d4c-f1b3bbf75cf1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_224.jpg"
+  },
+  {
+    "id": "36f6a7b9-76b2-4653-9ddb-804cf138dd18",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_225.jpg"
+  },
+  {
+    "id": "6809d35c-91b0-4635-bb0d-a579cb4c151d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_226.jpg"
+  },
+  {
+    "id": "4205c8b2-93ba-444d-ab2c-fbba108cb614",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_227.jpg"
+  },
+  {
+    "id": "b9353d98-15fa-4e3b-912d-ce8c80686652",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_228.jpg"
+  },
+  {
+    "id": "a68db4b1-7555-4097-b73e-24c8f3a79cfe",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_229.jpg"
+  },
+  {
+    "id": "d0eb0cd8-1095-4f0f-accc-65ca5dacd46e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_23.jpg"
+  },
+  {
+    "id": "62ec7430-64b6-4e01-b868-c36295e9fbc4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_230.jpg"
+  },
+  {
+    "id": "55c703bf-7c97-4a3f-8757-68d83033e71d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_231.jpg"
+  },
+  {
+    "id": "38e59b52-d778-4c7a-8e32-ecf763585ad4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_232.jpg"
+  },
+  {
+    "id": "4a4ffc25-4c44-4d37-ab28-370fe0d2d8eb",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_233.jpg"
+  },
+  {
+    "id": "062b61a2-b364-430a-b198-cf5bdb40a11f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_234.jpg"
+  },
+  {
+    "id": "507ac830-a4f4-4719-909c-50942ff334f6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_235.jpg"
+  },
+  {
+    "id": "927128f2-15df-44d3-987b-8d7918ab9f85",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_236.jpg"
+  },
+  {
+    "id": "e5edb0cd-4e24-4042-8b81-1cf8217e5fd6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_237.jpg"
+  },
+  {
+    "id": "da65e4ed-4dd5-4c20-a082-dae863d2b71f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_238.jpg"
+  },
+  {
+    "id": "93063697-b107-4b57-801a-e43363626903",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_239.jpg"
+  },
+  {
+    "id": "f53213c4-4e73-4a09-be9b-55099d2f30de",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_24.jpg"
+  },
+  {
+    "id": "a4f8546a-f8f9-4456-9299-9628e60da920",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_240.jpg"
+  },
+  {
+    "id": "7e7801bb-58ac-495f-9149-ca65dde98760",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_241.jpg"
+  },
+  {
+    "id": "1c89b1c9-666f-43ba-87a1-e8a9ce3d0383",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_242.jpg"
+  },
+  {
+    "id": "8d4d4160-451c-44a2-9c3d-8ac466201123",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_243.jpg"
+  },
+  {
+    "id": "f89d3bbc-9df1-4803-9e30-caaae6f26c89",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_244.jpg"
+  },
+  {
+    "id": "ca3e6c30-85d0-47b4-ad11-30dab5c30ccc",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_245.jpg"
+  },
+  {
+    "id": "e92aaff4-e77f-4c28-a926-6576be910041",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_246.jpg"
+  },
+  {
+    "id": "0b22cd3c-4778-49d3-9299-d1e7c2e20393",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_247.jpg"
+  },
+  {
+    "id": "83c3ce54-c64d-40eb-a505-cabefdac8cf9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_248.jpg"
+  },
+  {
+    "id": "e77ed578-f6b1-411b-b0d4-6bdfbe045c02",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_249.jpg"
+  },
+  {
+    "id": "5db42cd3-3521-4f47-91a3-4c74a290d705",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_25.jpg"
+  },
+  {
+    "id": "33f416d8-c572-43c1-a7d1-ca3295cf585f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_250.jpg"
+  },
+  {
+    "id": "504b5da2-6013-4089-88b1-60a9c60a2baf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_251.jpg"
+  },
+  {
+    "id": "81e23afb-bbd3-4c97-80a1-f52ab4efb8b0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_252.jpg"
+  },
+  {
+    "id": "1f77ae6d-2893-42c6-a480-0d0cd892dbfd",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_253.jpg"
+  },
+  {
+    "id": "22e3791e-d62c-4851-b9f3-db40100d2c21",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_254.jpg"
+  },
+  {
+    "id": "e3c0ac9e-20ce-4ddd-be3f-058911a52aba",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_255.jpg"
+  },
+  {
+    "id": "c934f6cd-0572-4983-8d2c-bbca9ea6c6b8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_256.jpg"
+  },
+  {
+    "id": "89452ce2-6341-4e1b-bf5b-8e854e48fc72",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_257.jpg"
+  },
+  {
+    "id": "2092e964-44fb-474a-9e7e-0259c3fcd84a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_258.jpg"
+  },
+  {
+    "id": "2994ccdb-a687-4ef1-9236-f49d556a2ed7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_259.jpg"
+  },
+  {
+    "id": "c4e572ae-cf9e-407f-b41e-6facd7d82861",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_26.jpg"
+  },
+  {
+    "id": "023af53b-cb4a-4be8-bd1c-76c98b88fa27",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_260.jpg"
+  },
+  {
+    "id": "17002bd3-1a73-4a04-ad7a-bb726d368b76",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_261.jpg"
+  },
+  {
+    "id": "b731c81c-aada-483e-9b92-8f1f76be4147",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_262.jpg"
+  },
+  {
+    "id": "336a3290-493f-409f-8165-28f34d427436",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_263.jpg"
+  },
+  {
+    "id": "84edc7c5-a065-426b-ad0a-68b6b64d9e4e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_264.jpg"
+  },
+  {
+    "id": "5d8dc16c-132b-4e5c-b7f8-c3fe58c8022c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_265.jpg"
+  },
+  {
+    "id": "91014e0d-f487-42d6-838d-84d5da489763",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_266.jpg"
+  },
+  {
+    "id": "ae673439-138b-40ad-9e45-8638c83ab460",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_267.jpg"
+  },
+  {
+    "id": "29e84ff9-4e4b-4c39-83c4-8a3dea068505",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_268.jpg"
+  },
+  {
+    "id": "aab37487-4863-4a85-8c0e-b547f1fa14a6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_269.jpg"
+  },
+  {
+    "id": "fc17a351-ef95-432f-964c-4d43b4297355",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_27.jpg"
+  },
+  {
+    "id": "24305232-aa2d-4777-9199-a1c461329218",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_270.jpg"
+  },
+  {
+    "id": "f783139e-1f6d-489e-aaf2-5b0f9fc79ec2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_271.jpg"
+  },
+  {
+    "id": "9dd74a78-a382-48b3-85c8-5d41f5ec0b2e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_272.jpg"
+  },
+  {
+    "id": "40f558aa-7fc2-4514-bf5d-72e50009aef3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_273.jpg"
+  },
+  {
+    "id": "f55509c7-9ca8-4c54-80e2-34e78dd59b7c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_274.jpg"
+  },
+  {
+    "id": "5fdcf52c-c970-46a3-8545-e9171bc3e0e3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_275.jpg"
+  },
+  {
+    "id": "23475e3d-67f0-4653-82ce-dced9719e9d9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_276.jpg"
+  },
+  {
+    "id": "e3388ba0-f6df-4f09-9494-09b5a3a130e3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_277.jpg"
+  },
+  {
+    "id": "66737aa9-0fc0-4b7e-aed6-625289ec004e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_278.jpg"
+  },
+  {
+    "id": "bc20f15a-5a0d-4a20-ad92-8a9c39fbc83e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_279.jpg"
+  },
+  {
+    "id": "74cc4f88-e1b2-40a7-b23b-7ac333a1363b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_28.jpg"
+  },
+  {
+    "id": "1fb5c9b0-e825-4aec-b7ae-54e2e3833ad4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_280.jpg"
+  },
+  {
+    "id": "c5db9ec2-244d-46be-804d-ac21e3265987",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_281.jpg"
+  },
+  {
+    "id": "7d7a9c5a-3d2e-40aa-b4d0-673ab958e121",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_282.jpg"
+  },
+  {
+    "id": "27618167-531f-4396-a57d-e30858f1bfbd",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_283.jpg"
+  },
+  {
+    "id": "f243ffda-ce9f-468b-9c60-120a65689f0a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_284.jpg"
+  },
+  {
+    "id": "08af1223-f718-40eb-97e9-acbfe47db6d8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_285.jpg"
+  },
+  {
+    "id": "ec97fb78-9795-4a33-a9af-a731f41f06c8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_286.jpg"
+  },
+  {
+    "id": "50917309-4635-4f15-93ae-f12baccf8bee",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_287.jpg"
+  },
+  {
+    "id": "fe0ba094-22a6-4a64-abf4-8586f79241f0",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_288.jpg"
+  },
+  {
+    "id": "bdf10bab-8872-485a-9836-8e7bdb0379cf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_289.jpg"
+  },
+  {
+    "id": "18c49c5d-64c8-40de-98ab-381cb33655e8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_29.jpg"
+  },
+  {
+    "id": "b596668c-712d-4ef7-95f7-e613ca1bee27",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_290.jpg"
+  },
+  {
+    "id": "eb0b2daf-2867-4071-89de-0f9e95ebe539",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_291.jpg"
+  },
+  {
+    "id": "09b12a92-18b9-40fb-8351-7f28877b21e9",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_292.jpg"
+  },
+  {
+    "id": "9709a211-527c-4e8a-a781-d1f7534be049",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_293.jpg"
+  },
+  {
+    "id": "8544267e-9686-4c44-80de-e568b55dfc14",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_294.jpg"
+  },
+  {
+    "id": "42dc2a7d-429d-4b70-a942-09801d39b561",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_295.jpg"
+  },
+  {
+    "id": "889bc387-3985-4f88-a3dc-5841793c9c7f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_296.jpg"
+  },
+  {
+    "id": "c4c5a454-75da-44d9-a542-640ae6887ed4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_297.jpg"
+  },
+  {
+    "id": "b844740d-c30a-4577-91fd-7980262e6f57",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_298.jpg"
+  },
+  {
+    "id": "29a40f0b-f0c4-4dbc-b34a-aa13e678a63c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_299.jpg"
+  },
+  {
+    "id": "9befab32-1274-4a39-9c53-cb3c7fd0365a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_3.jpg"
+  },
+  {
+    "id": "010ce5ea-8396-47cd-bab8-6f4a32720504",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_30.jpg"
+  },
+  {
+    "id": "289fb5f1-43b9-4b84-b0d1-5da716ff93ce",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_300.jpg"
+  },
+  {
+    "id": "560f9e0a-5b0c-4fbf-beba-0579ed7df9a6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_301.jpg"
+  },
+  {
+    "id": "4d4d1204-23ed-4f06-8e21-068241518beb",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_302.jpg"
+  },
+  {
+    "id": "21021fa8-a08c-4245-9a0d-9b106a410733",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_303.jpg"
+  },
+  {
+    "id": "5129301b-837e-46e4-8a2c-f2f006aca3d7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_304.jpg"
+  },
+  {
+    "id": "03ad7a8b-577f-4347-aeba-df6ff0bb7cc4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_305.jpg"
+  },
+  {
+    "id": "b0064422-d490-4a91-ad32-db6d0720f62e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_306.jpg"
+  },
+  {
+    "id": "696f9b16-8fee-4a12-a268-c66f324572c5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_307.jpg"
+  },
+  {
+    "id": "86e6463a-f2c6-4ebc-be29-f328bed61d86",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_308.jpg"
+  },
+  {
+    "id": "1bf61b99-dce5-460b-a600-393734e6cbea",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_309.jpg"
+  },
+  {
+    "id": "45557149-d3fd-4b77-b943-a24bfcc163d5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_31.jpg"
+  },
+  {
+    "id": "5eb1efa2-1f0a-4662-9c93-4eb95a55de9d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_310.jpg"
+  },
+  {
+    "id": "f1976776-2a42-431d-bd84-e42888162a3a",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_311.jpg"
+  },
+  {
+    "id": "577a7c4d-5fe6-4d1a-9191-281ba071b859",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_312.jpg"
+  },
+  {
+    "id": "9cb2aacb-fafe-4553-93cd-e8c792c09ca6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_313.jpg"
+  },
+  {
+    "id": "745c83cf-8cfc-4a20-a4e4-36c659bd8e61",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_314.jpg"
+  },
+  {
+    "id": "22f13b57-15ad-4ae0-8bff-070ecd238e60",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_315.jpg"
+  },
+  {
+    "id": "ad2ebf9b-eccd-4fab-a39b-45ab3f57f7aa",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_316.jpg"
+  },
+  {
+    "id": "d3c7f7fb-8901-4a54-b198-eb3a3420afc5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_317.jpg"
+  },
+  {
+    "id": "566e8c11-cf15-4a95-8230-fbed3e8df6ff",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_318.jpg"
+  },
+  {
+    "id": "fa91cd59-b8aa-486e-a998-172017e1b107",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_319.jpg"
+  },
+  {
+    "id": "8974e3b3-d102-4ede-954d-4e2f0a21f6f6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_32.jpg"
+  },
+  {
+    "id": "c9b78455-a7ff-4608-9094-2f8ca2d96835",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_320.jpg"
+  },
+  {
+    "id": "e5aa8cc5-78a6-4c09-8aa3-c07d5981c568",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_33.jpg"
+  },
+  {
+    "id": "e301654c-df3a-46e9-ae4a-3766b943ee29",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_34.jpg"
+  },
+  {
+    "id": "184d31a4-9837-42a2-9e23-1f468e768137",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_35.jpg"
+  },
+  {
+    "id": "85ed40ff-50b0-48d0-95d9-ceb0b2f4f986",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_36.jpg"
+  },
+  {
+    "id": "6c140a3a-a642-4493-b415-7acd95d5d23d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_37.jpg"
+  },
+  {
+    "id": "c22d8c9c-3d76-4f59-b392-43dd4bfefa0f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_38.jpg"
+  },
+  {
+    "id": "a63179e9-5162-4615-a125-3a9f6f2434f2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_39.jpg"
+  },
+  {
+    "id": "dfeda36b-e8d0-41d8-9ea9-24cbf26424fd",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_4.jpg"
+  },
+  {
+    "id": "cc9e3b93-c5c4-49fa-903b-c3c5487719e7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_40.jpg"
+  },
+  {
+    "id": "5a8fb6ba-18bd-420c-bb6a-c84397442ddf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_41.jpg"
+  },
+  {
+    "id": "cdbf525d-df2d-4ef9-8820-50ae6f06ceb5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_42.jpg"
+  },
+  {
+    "id": "f3ef4ebd-22ae-420c-be76-aa35b915902e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_43.jpg"
+  },
+  {
+    "id": "f37c532d-7a18-4194-a8de-0e7ac42c3822",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_44.jpg"
+  },
+  {
+    "id": "d87916b6-6a8d-4bfa-b0ff-7ca3bdb780cf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_45.jpg"
+  },
+  {
+    "id": "f3bb5eae-f8aa-4885-ba87-7dc9443cfae1",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_46.jpg"
+  },
+  {
+    "id": "404e5f85-5283-4680-8768-62393ea0b755",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_47.jpg"
+  },
+  {
+    "id": "4a36b351-ae69-4653-adb3-0a03d4ac945c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_48.jpg"
+  },
+  {
+    "id": "346ffbda-c074-4e2a-afa6-854e431b7295",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_49.jpg"
+  },
+  {
+    "id": "76ec81b4-1d44-4275-afa7-89040eb81bbe",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_50.jpg"
+  },
+  {
+    "id": "94369110-ca2b-4d7f-ade0-3ed717d1c922",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_51.jpg"
+  },
+  {
+    "id": "375a739f-0a4c-4d8c-a103-c1597aee0576",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_52.jpg"
+  },
+  {
+    "id": "a4a63742-4695-448c-98d5-add1c301a7b2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_53.jpg"
+  },
+  {
+    "id": "3f64c8b8-cdb6-4210-87b0-ef9bd00b5bb4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_54.jpg"
+  },
+  {
+    "id": "b7252468-a9ce-45b9-a29e-85aeb9280e20",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_55.jpg"
+  },
+  {
+    "id": "6085919e-a9df-4e09-9c5b-b64d9d09a007",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_56.jpg"
+  },
+  {
+    "id": "0a9bcd4f-d7d8-4cf8-930d-c6034f821135",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_57.jpg"
+  },
+  {
+    "id": "887dcc47-44d8-467d-a848-4387402a30d4",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_58.jpg"
+  },
+  {
+    "id": "b9eed3b7-4d96-4b23-bc79-2f35d2e32a3f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_59.jpg"
+  },
+  {
+    "id": "e350b7b3-83d5-4b3a-a8a3-d41c088c3964",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_6.jpg"
+  },
+  {
+    "id": "58a4f0cd-a4eb-46bb-ae98-3363f00b7704",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_60.jpg"
+  },
+  {
+    "id": "3cb50f34-3b90-4808-8c78-5e36e16fbbef",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_61.jpg"
+  },
+  {
+    "id": "b65eacdf-1cad-4883-b8f1-8b1afe72724d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_62.jpg"
+  },
+  {
+    "id": "4b1eea25-08a9-4b6f-98a5-c27d8a0dfa8c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_63.jpg"
+  },
+  {
+    "id": "e2464aa8-4bef-48f5-8869-849034f3aff3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_64.jpg"
+  },
+  {
+    "id": "808a7b6d-0c97-4ee2-aec4-5c344bd3a0b7",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_65.jpg"
+  },
+  {
+    "id": "631a98ba-5e87-4b12-bbbb-662ea32117ba",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_66.jpg"
+  },
+  {
+    "id": "17c6004b-d2b2-4d1c-9744-5324da0b3879",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_67.jpg"
+  },
+  {
+    "id": "bc2706ab-adaa-4510-b276-3e18fe1432b5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_68.jpg"
+  },
+  {
+    "id": "b17d5624-f176-4e65-a623-323649ca8ed8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_69.jpg"
+  },
+  {
+    "id": "7bdb698b-d61e-4668-9c5d-f2b525d3983b",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_7.jpg"
+  },
+  {
+    "id": "93b1415b-8597-467d-8827-65660c2d921f",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_70.jpg"
+  },
+  {
+    "id": "292e6078-c709-4ac3-a568-a29410a14105",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_71.jpg"
+  },
+  {
+    "id": "f21fe014-e4cc-4b5f-ae80-fefb4dc4c522",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_72.jpg"
+  },
+  {
+    "id": "8c24b2ec-bb1b-4636-ae75-8ccf2cc77ab5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_73.jpg"
+  },
+  {
+    "id": "21ea72be-1d61-4625-b555-6b87a0381abe",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_74.jpg"
+  },
+  {
+    "id": "5c45dff2-8254-4d67-af6e-ea9616fb42c5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_75.jpg"
+  },
+  {
+    "id": "e8b99d5c-ceb6-42b1-a38d-f724e7eb8539",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_76.jpg"
+  },
+  {
+    "id": "e68ad74e-9b29-4e69-92c7-6320a1920226",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_77.jpg"
+  },
+  {
+    "id": "d40356c7-e774-4b0f-bbe4-15e95b7b93ee",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_78.jpg"
+  },
+  {
+    "id": "02243979-fd88-4f61-9285-fb624f027a2d",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_79.jpg"
+  },
+  {
+    "id": "61b6d8ae-7e4c-47d0-b774-fb3ece2db49c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_80.jpg"
+  },
+  {
+    "id": "c215f221-7d02-49da-aff4-a805717a7e63",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_81.jpg"
+  },
+  {
+    "id": "0c48e219-be27-42fa-8053-02a6755c24e6",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_82.jpg"
+  },
+  {
+    "id": "8cb5f1fd-af39-423c-b0dd-381a1c3cc1f8",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_83.jpg"
+  },
+  {
+    "id": "c7625fbd-b1f0-44c5-af74-25a8c17890d5",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_84.jpg"
+  },
+  {
+    "id": "168b2ef8-0230-40e8-ac29-be37222d9de3",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_85.jpg"
+  },
+  {
+    "id": "05252e7a-92dd-4d97-b96a-7948efd11b4c",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_86.jpg"
+  },
+  {
+    "id": "ac52e7f5-1252-476c-abbf-d6ef963ffd94",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_87.jpg"
+  },
+  {
+    "id": "525dabaa-fd9c-460e-9828-53b3474bca59",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_88.jpg"
+  },
+  {
+    "id": "d56ae9a3-c570-4a31-83ae-3ae7bef6a9ac",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_89.jpg"
+  },
+  {
+    "id": "394ad171-51aa-4a75-8926-c5b488ad59da",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_9.jpg"
+  },
+  {
+    "id": "726dc5fe-7834-402f-9232-cd64fc61fa47",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_91.jpg"
+  },
+  {
+    "id": "5382666f-21dd-472e-8791-0b4b2152c027",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_93.jpg"
+  },
+  {
+    "id": "98d829f3-3371-4c8e-9a4e-759ef42890ee",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_95.jpg"
+  },
+  {
+    "id": "baaf5559-3968-44a4-a40a-15cd01795882",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_96.jpg"
+  },
+  {
+    "id": "2be8d145-d448-4739-8b35-78011f75f1cf",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_97.jpg"
+  },
+  {
+    "id": "f32ac494-82c6-4080-b1c2-872125738cf2",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_98.jpg"
+  },
+  {
+    "id": "35417139-3838-40f7-b6b1-a95960b6d14e",
+    "category": "necklace",
+    "image_path": "data/images\\necklace\\necklace_99.jpg"
+  },
+  {
+    "id": "8a6b00bf-0121-4dcf-aa24-6a7d363606a4",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_001.jpg"
+  },
+  {
+    "id": "308cd81c-d1b7-490b-b39e-6fbce081eca8",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_002.jpg"
+  },
+  {
+    "id": "8ffefd08-7477-4a58-a342-747efdf014ee",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_003.jpg"
+  },
+  {
+    "id": "ae8bb206-b126-4c25-b733-7e1503688da3",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_004.jpg"
+  },
+  {
+    "id": "2728e67a-ecbc-422b-96a4-cb2dba52b0dd",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_005.jpg"
+  },
+  {
+    "id": "e54e92bb-73b3-43a1-8b14-8853f1fc8e1d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_006.jpg"
+  },
+  {
+    "id": "c8c6ee9e-1dbd-4ebb-a259-5e3e92be2368",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_007.jpg"
+  },
+  {
+    "id": "d5550bf9-da0b-4fa8-ae5a-2c6234cb66aa",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_008.jpg"
+  },
+  {
+    "id": "059d7663-f625-4a9b-a3ec-a19ec0a95917",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_009.jpg"
+  },
+  {
+    "id": "1526d7ff-26cc-49ba-8584-8f55e6bdf40e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_013.jpg"
+  },
+  {
+    "id": "47591bf6-1e88-426e-9f56-ca119d144cad",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_014.jpg"
+  },
+  {
+    "id": "05477265-4eef-43f8-b632-bfec99e5134f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_015.jpg"
+  },
+  {
+    "id": "05599b33-36d3-4c50-881c-0df25288a6e6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_016.jpg"
+  },
+  {
+    "id": "04df0693-3855-43fe-af57-30261d5cbda7",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_017.jpg"
+  },
+  {
+    "id": "1ddb75ba-bade-4c95-b7e2-6a9152ff763a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_018.jpg"
+  },
+  {
+    "id": "7f1308ae-a28d-4e8b-b38f-5999da39a457",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_019.jpg"
+  },
+  {
+    "id": "dc26e2ca-1e00-48d7-b63b-90b2efce22ac",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_020.jpg"
+  },
+  {
+    "id": "6570429c-e7b9-4c5c-a1e6-0647ccfdd43c",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_021.jpg"
+  },
+  {
+    "id": "9c530c32-00d3-4e12-8c8b-73ba883555c1",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_022.jpg"
+  },
+  {
+    "id": "839fea3c-370a-4201-82e5-67a70d69ad65",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_023.jpg"
+  },
+  {
+    "id": "fc52a506-63f1-458f-9546-192bd0771d24",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_024.jpg"
+  },
+  {
+    "id": "6452160c-02ad-43de-b8d7-9f272b549de7",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_025.jpg"
+  },
+  {
+    "id": "0b87b174-8b32-40b3-af0c-b982c05321b1",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_026.jpg"
+  },
+  {
+    "id": "ad82ff40-b39c-40b2-9588-4ac11df905ea",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_027.jpg"
+  },
+  {
+    "id": "e596aad7-043f-451e-a13f-5115bf321069",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_028.jpg"
+  },
+  {
+    "id": "66caa3e7-817f-4d5e-8a78-9ada3eb9481e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_029.jpg"
+  },
+  {
+    "id": "fb08d452-c581-43cc-bcb8-30f6b2b211d9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_030.jpg"
+  },
+  {
+    "id": "1dc876ef-e076-4dcf-a99e-cf739b1c1534",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_031.jpg"
+  },
+  {
+    "id": "e92340ee-4c2f-4ba6-bffc-940be118c8d9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_032.jpg"
+  },
+  {
+    "id": "1f3d8c9a-b05e-459f-ab80-6a87fe068fa7",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_033.jpg"
+  },
+  {
+    "id": "4af9453a-53e5-4450-9896-9566b791214e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_034.jpg"
+  },
+  {
+    "id": "f5351dbf-6f41-42ad-b34c-a980d5e27f06",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_035.jpg"
+  },
+  {
+    "id": "70edcaa1-9995-4613-8fb8-d8dc32037d2b",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_036.jpg"
+  },
+  {
+    "id": "26401be2-fd0d-4eb1-a4b0-99451945ce44",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_037.jpg"
+  },
+  {
+    "id": "0aab1606-8a44-47e9-a66a-aeac992df45f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_038.jpg"
+  },
+  {
+    "id": "0e39e4ab-201f-4663-a3c9-7d8e5f59da78",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_039.jpg"
+  },
+  {
+    "id": "f61d939a-b22a-455f-86b9-ffdc25025a32",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_040.jpg"
+  },
+  {
+    "id": "69b202c6-e725-4816-bdbd-a683ec19a8e4",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_041.jpg"
+  },
+  {
+    "id": "2ed01da4-50a5-4573-a75c-e4d040010e55",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_042.jpg"
+  },
+  {
+    "id": "3c2be495-7e3b-422c-a9a3-5fddbb792bc0",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_043.jpg"
+  },
+  {
+    "id": "94269278-a9fb-44f8-a1c3-e9b1757e9457",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_044.jpg"
+  },
+  {
+    "id": "566ede87-cf11-4609-905e-f938d997e258",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_045.jpg"
+  },
+  {
+    "id": "c4501aa5-9211-48b4-949e-5986972b15e7",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_046.jpg"
+  },
+  {
+    "id": "e2657798-003f-4c8c-9353-2044547c263a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_047.jpg"
+  },
+  {
+    "id": "32deb5dd-0f81-4697-9589-8c0c7d4410ee",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_048.jpg"
+  },
+  {
+    "id": "1c8155ac-347e-4f48-a806-50aa69fc9320",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_049.jpg"
+  },
+  {
+    "id": "2f3185d4-1420-4159-9764-de9b2b48d710",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_050.jpg"
+  },
+  {
+    "id": "46183c97-ba20-4dcb-81f3-0f0e9e77589d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_051.jpg"
+  },
+  {
+    "id": "53ab176d-15f4-4df8-9e7f-4e415ab922fc",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_052.jpg"
+  },
+  {
+    "id": "2db85927-c804-457b-9d18-e5c7db7ab0b8",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_053.jpg"
+  },
+  {
+    "id": "342b613d-df51-4bb4-a865-fb4c48f78bc8",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_054.jpg"
+  },
+  {
+    "id": "1a016d0a-358b-426f-857e-310ae7b77910",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_055.jpg"
+  },
+  {
+    "id": "b765b755-df7f-4ec1-bcec-cc7f013799aa",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_056.jpg"
+  },
+  {
+    "id": "371648e0-9d3d-4076-8a38-a2f1f92b81ce",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_057.jpg"
+  },
+  {
+    "id": "ea77023f-6cd3-4c14-8f8b-535e9d9f6db5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_058.jpg"
+  },
+  {
+    "id": "4383b607-5bdc-4f4b-b6aa-ecd32e8407ac",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_059.jpg"
+  },
+  {
+    "id": "ce3847ee-968e-4844-8c0f-71d2a03022de",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_060.jpg"
+  },
+  {
+    "id": "f77ce914-9aa5-4bbd-af0e-5625ee58c0da",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_061.jpg"
+  },
+  {
+    "id": "11432999-dc85-4a3a-97e7-528c761b321a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_062.jpg"
+  },
+  {
+    "id": "3f95e9c4-5f65-4d62-b49d-8e74a7707ca1",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_063.jpg"
+  },
+  {
+    "id": "22dc45d5-91e4-4000-b2ab-61b97e01b635",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_064.png"
+  },
+  {
+    "id": "54826a42-81d3-4164-a9e5-e986eba8abdd",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_065.jpg"
+  },
+  {
+    "id": "07b48b13-fb04-4941-b633-f83a6b7782cb",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_066.jpg"
+  },
+  {
+    "id": "ad8dfaed-a199-4870-b1ff-fcdd0b35ca8c",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_067.jpg"
+  },
+  {
+    "id": "520c6ba7-715c-4beb-98d6-96fff007ec1e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_068.jpg"
+  },
+  {
+    "id": "52413c40-884d-4e4d-807f-1c05c1b0e0cd",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_069.jpg"
+  },
+  {
+    "id": "79492507-77d4-422d-b305-f319824d1aa0",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_070.jpg"
+  },
+  {
+    "id": "1a617fe9-eb90-409f-aa37-a22eca93bd52",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_071.jpg"
+  },
+  {
+    "id": "a189d4e1-a66f-447f-a2cd-53dfd9d80b79",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_072.jpg"
+  },
+  {
+    "id": "9d8fa476-64b1-4b7b-83e8-76e62454a1be",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_073.jpg"
+  },
+  {
+    "id": "8386a678-f3b2-464b-add2-b3a4c49e6691",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_074.jpg"
+  },
+  {
+    "id": "a5d18887-0156-48e8-8a94-3594b4a778ff",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_075.jpg"
+  },
+  {
+    "id": "b1db9dc2-05ed-48e3-a787-28020b830079",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_076.jpg"
+  },
+  {
+    "id": "8298322c-07a9-46a3-82cb-9c3803a17cfd",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_077.jpg"
+  },
+  {
+    "id": "d6107e6e-1cf3-4105-abf7-d2c181a595e9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_078.jpg"
+  },
+  {
+    "id": "f726a855-d0bd-4566-be59-59fc84a2c655",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_079.jpg"
+  },
+  {
+    "id": "6b957555-ded0-47ac-99b7-29b9f2f1d20c",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_080.jpg"
+  },
+  {
+    "id": "aa1ec25d-098e-4a8b-bf2e-f06e525b15f6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_081.jpg"
+  },
+  {
+    "id": "3a79c97e-4bdb-401a-a295-0c4e25c150e9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_082.jpg"
+  },
+  {
+    "id": "bd728804-fc8c-428e-ac51-f7bff63e276f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_083.jpg"
+  },
+  {
+    "id": "87ea4d9a-05b2-43ef-83e1-fcb12b59f144",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_084.jpg"
+  },
+  {
+    "id": "5c22fd29-f4f1-4f36-9600-f782a76423ea",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_085.jpg"
+  },
+  {
+    "id": "b31facdd-8f67-4ccf-bf26-5cad3e5d4cea",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_086.jpg"
+  },
+  {
+    "id": "ca5b2221-6a92-4e1d-8bc2-542cf3da0f42",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_087.jpg"
+  },
+  {
+    "id": "78cca57c-c26d-4e8e-ac6c-06270a19e38d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_088.jpg"
+  },
+  {
+    "id": "0ca8f45d-817a-4fb3-9c53-dfbfb8d0853c",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_089.jpg"
+  },
+  {
+    "id": "52cdb2ca-b3ac-444c-9264-fcdb9b367bf5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_090.jpg"
+  },
+  {
+    "id": "fcb454cd-2a8c-40aa-b4d4-52273b5b5cc5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_091.jpg"
+  },
+  {
+    "id": "830062ce-72e8-4303-88d1-528b690b7099",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_092.jpg"
+  },
+  {
+    "id": "509b80a5-14c9-42a1-8c59-0e7abf0d2192",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_093.jpg"
+  },
+  {
+    "id": "52740e43-fa8d-425c-9457-42584601341e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_094.jpg"
+  },
+  {
+    "id": "bdf2e584-f8f5-416d-b9d3-dcbb45d096bc",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_095.jpg"
+  },
+  {
+    "id": "ad8d72a4-183f-4974-9f27-ced4c8d94551",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_096.jpg"
+  },
+  {
+    "id": "507d5ef5-428c-44dc-b83d-a93a49b1b827",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_097.jpg"
+  },
+  {
+    "id": "9c9cd268-58d7-4ed5-a631-6001d52c782d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_098.jpg"
+  },
+  {
+    "id": "00c35038-7953-47d5-a791-c20e5db4e725",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_099.jpg"
+  },
+  {
+    "id": "21b76e9c-64f0-4c3d-955f-3879089993a0",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_100.jpg"
+  },
+  {
+    "id": "9e5033f8-447d-4f84-9c71-44ea90ff8f27",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_101.jpg"
+  },
+  {
+    "id": "ad7888e6-96c6-4a7c-886e-fb78cb1fe9b6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_102.jpg"
+  },
+  {
+    "id": "6fe264f1-a928-449f-b518-dc18c9ed7ce6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_103.jpg"
+  },
+  {
+    "id": "d6e8932a-3dba-44ce-b66c-e3b490a104db",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_104.jpg"
+  },
+  {
+    "id": "63bdc541-298b-42dd-b891-e5e4879e24b6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_105.jpg"
+  },
+  {
+    "id": "63c941d6-6778-4a8f-a2d8-1e45ff2f2198",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_106.jpg"
+  },
+  {
+    "id": "9011569b-f987-4bb4-8c3a-706f7907b2a7",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_107.jpg"
+  },
+  {
+    "id": "e497d4e0-12b3-4723-9118-1ffaeb4de71a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_108.jpg"
+  },
+  {
+    "id": "12deb69d-a43f-4fcc-9a05-cc0bd9651b9f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_109.jpg"
+  },
+  {
+    "id": "a3a236e9-8686-4fb4-867e-7339cb8d8606",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_110.jpg"
+  },
+  {
+    "id": "4bae77fe-1cef-49b0-98c3-e515a6f59af2",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_111.jpg"
+  },
+  {
+    "id": "fd3b2be2-d7ba-4e43-8629-4049a8dc9f51",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_112.jpg"
+  },
+  {
+    "id": "661f45b4-2da9-4edd-ab25-beb72c8f9b11",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_113.jpg"
+  },
+  {
+    "id": "01327b71-b152-4e44-a097-bfc870baa882",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_114.jpg"
+  },
+  {
+    "id": "34ab48eb-5a4d-4f89-96fd-5d1eb737d8c3",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_115.jpg"
+  },
+  {
+    "id": "8c8f1856-5841-49c8-8db0-15dccf8f7fe9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_116.jpg"
+  },
+  {
+    "id": "17cc336e-bdf3-4081-ba1a-3039b1a7da7f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_117.jpg"
+  },
+  {
+    "id": "65b8fcda-a7ca-4eef-ae2c-9dd646dc7e0d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_118.jpg"
+  },
+  {
+    "id": "9495eaac-0c4d-42e8-8242-96c4afadbf78",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_119.jpg"
+  },
+  {
+    "id": "c57c1aac-98f4-459d-96b7-770216af9a9c",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_120.jpg"
+  },
+  {
+    "id": "0cdeb317-bb86-472a-af90-c5641d7837a2",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_121.jpg"
+  },
+  {
+    "id": "b1e96814-76cf-4506-9e93-5ab951320f3e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_122.jpg"
+  },
+  {
+    "id": "a46cf80c-346e-4dbd-9d2b-dc09b7991d27",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_123.jpg"
+  },
+  {
+    "id": "20ac5638-593b-4c6d-8d4a-77133c2d8eb5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_124.jpg"
+  },
+  {
+    "id": "a5d986e1-c1f6-4d1e-b254-72d606588c14",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_125.jpg"
+  },
+  {
+    "id": "ae1acff6-9b10-4c1f-bd0a-b7da69e69115",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_126.jpg"
+  },
+  {
+    "id": "0dcbc5cb-0389-4bf9-9970-0f4d1639450d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_127.jpg"
+  },
+  {
+    "id": "7c8cbc0d-59e0-4b81-bff8-f987a042b2cc",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_128.jpg"
+  },
+  {
+    "id": "160cf091-bfe4-4332-9c91-a01cf538aadf",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_129.jpg"
+  },
+  {
+    "id": "c12efe42-a761-4586-8628-5652cb4684e0",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_130.jpg"
+  },
+  {
+    "id": "61261122-2f76-4fd0-8713-2e32c0927f5e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_131.jpg"
+  },
+  {
+    "id": "a99f6eaa-8b2d-4682-9d6e-30b97a2163b1",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_132.jpg"
+  },
+  {
+    "id": "883150cc-8d2c-4701-8817-d023501c5568",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_133.jpg"
+  },
+  {
+    "id": "1032f7b3-d6db-485a-83b0-1026f7b5cc5d",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_134.jpg"
+  },
+  {
+    "id": "07916f3f-0582-47f7-9647-12da53e7fbac",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_135.jpg"
+  },
+  {
+    "id": "0602d399-19d5-45bf-81e7-b0fff95635d4",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_136.jpg"
+  },
+  {
+    "id": "168e6632-167d-4f69-b6ba-a7247c1b532a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_137.jpg"
+  },
+  {
+    "id": "3b91a631-b92e-4d29-836c-40dcc628426a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_138.jpg"
+  },
+  {
+    "id": "5db24828-2435-406c-ad33-5e19260bd758",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_139.jpg"
+  },
+  {
+    "id": "11e0edbc-aab6-4cff-94fe-49dcf0a17b72",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_140.jpg"
+  },
+  {
+    "id": "82578450-c835-4a5c-8f4a-4c17bf56aee8",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_141.jpg"
+  },
+  {
+    "id": "1c72d1e0-0872-49ba-81ff-3d3687d80e76",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_142.jpg"
+  },
+  {
+    "id": "8c7ff949-c335-4cd3-8263-a1f62cb9ecf9",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_143.jpg"
+  },
+  {
+    "id": "be830602-44fd-46cd-a05b-11edbf5410d6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_144.jpg"
+  },
+  {
+    "id": "e5268672-4b5d-4ed9-b157-3a13a7c4efb2",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_145.jpg"
+  },
+  {
+    "id": "41257d65-91a2-499a-b080-36380ca8162f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_146.jpg"
+  },
+  {
+    "id": "09b523cf-5022-4881-b347-3f0a6356956e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_147.jpg"
+  },
+  {
+    "id": "cfeb3c51-fbc4-4ee6-898c-d1d20a7d3530",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_148.jpg"
+  },
+  {
+    "id": "da68142c-2eaa-4e59-a1f3-276efa3fb818",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_149.jpg"
+  },
+  {
+    "id": "cf651160-f802-4c11-a305-27d0310bed0b",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_150.jpg"
+  },
+  {
+    "id": "06d9abd0-ed88-4aed-af1c-f2643fae21c6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_151.jpg"
+  },
+  {
+    "id": "1dbcb5eb-8094-43a9-a10d-04839b52b7a5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_152.jpg"
+  },
+  {
+    "id": "307f7f41-1e7d-4133-b57c-20a9ccb885e6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_153.jpg"
+  },
+  {
+    "id": "972394a9-295f-4fb9-b774-b424a9dfecf6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_154.jpg"
+  },
+  {
+    "id": "ea06e685-a725-4cd8-a3eb-421b83b594b2",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_155.jpg"
+  },
+  {
+    "id": "17578e64-ca7e-4f9c-b895-ccd69fee93ed",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_156.jpg"
+  },
+  {
+    "id": "bd93eaec-8799-4943-ae40-6e73e31a4c7f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_157.jpg"
+  },
+  {
+    "id": "7c08b78b-2493-4940-a3df-1e65fdc14338",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_158.jpg"
+  },
+  {
+    "id": "2818f365-e508-4772-bf22-de65aafc410b",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_159.jpg"
+  },
+  {
+    "id": "2789a822-cfc1-4c7a-97cf-0657d34cf88e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_160.jpg"
+  },
+  {
+    "id": "90afa6ac-b785-4886-9960-741db4ad6f3e",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_161.jpg"
+  },
+  {
+    "id": "20bec7ec-2fbf-44ad-9030-9a36ee3c1c72",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_162.jpg"
+  },
+  {
+    "id": "a3871071-e72d-4712-a132-d28e037c8876",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_163.jpg"
+  },
+  {
+    "id": "a121c2aa-713d-4a5b-8887-232127876a39",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_164.jpg"
+  },
+  {
+    "id": "933bc48f-be81-474c-92f9-0bdc8d933799",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_165.jpg"
+  },
+  {
+    "id": "4234b5f2-417f-4a3f-8e55-bbb3f90b3df6",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_166.jpg"
+  },
+  {
+    "id": "fda2bd8c-b442-4ad0-85e4-cf31bcf0edec",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_167.jpg"
+  },
+  {
+    "id": "eeaa8804-fa62-4406-b5e7-1f5cd4128538",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_168.jpg"
+  },
+  {
+    "id": "c0fd5715-4ab4-4243-bdd1-5c34e8e14e17",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_169.jpg"
+  },
+  {
+    "id": "7c853d7c-12cb-434c-b1f2-138fbe1d0c5f",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_170.jpg"
+  },
+  {
+    "id": "e9491e9b-4863-4c7c-9e74-857dfa5d32c5",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_171.jpg"
+  },
+  {
+    "id": "2d9da33a-150d-495f-a459-a66727273d67",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_172.jpg"
+  },
+  {
+    "id": "77bfac8f-cc63-4ee9-991f-127b955d9e10",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_173.jpg"
+  },
+  {
+    "id": "376c4267-d9a5-4662-b71d-09b5748296fb",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_174.jpg"
+  },
+  {
+    "id": "04239e8d-500e-4523-bbc3-da3d14b11510",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_175.jpg"
+  },
+  {
+    "id": "f31f128a-5914-402b-974c-4561d13f3a04",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_176.jpg"
+  },
+  {
+    "id": "7fdba7ae-72f5-4e26-8267-ba7d2f91f8f1",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_177.jpg"
+  },
+  {
+    "id": "a50cff2e-aa39-444d-b84b-f8e22c2ad86a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_178.jpg"
+  },
+  {
+    "id": "f35b0ee4-52c2-4988-ba58-37a52c54f188",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_179.jpg"
+  },
+  {
+    "id": "ed2e8265-2189-4c27-be8b-da5d9082726a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_180.jpg"
+  },
+  {
+    "id": "cb13d5b7-a582-4f24-a4fb-f236c347fe74",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_181.jpg"
+  },
+  {
+    "id": "1f30587e-9969-4e84-9240-eef2a08c6084",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_182.jpg"
+  },
+  {
+    "id": "b5e1ad54-6856-4fd0-88bd-4e903a81162a",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_183.jpg"
+  },
+  {
+    "id": "dde33ff1-ad1b-4587-80ab-72afbd4a8e04",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_184.jpg"
+  },
+  {
+    "id": "d73c789b-cb78-479a-b525-456fbaf24393",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_185.jpg"
+  },
+  {
+    "id": "ee1fa6b2-ef4d-4e21-ad45-98e37d7602ce",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_187.jpg"
+  },
+  {
+    "id": "93784482-9ef6-4d3f-b18f-3498d83c9bf4",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_188.jpg"
+  },
+  {
+    "id": "50611684-8b8e-473c-8b10-c6ba0a1f4874",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_189.jpg"
+  },
+  {
+    "id": "e2849b45-0608-4995-aed0-faa41214ac18",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_190.jpg"
+  },
+  {
+    "id": "c8041dda-d40d-4f2a-939a-5039baeabd34",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_191.jpg"
+  },
+  {
+    "id": "2e82dc58-4691-4e1d-85fe-da6a8cb545c8",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_192.jpg"
+  },
+  {
+    "id": "9679b278-75fa-49c1-a7ff-bf442a44e571",
+    "category": "ring",
+    "image_path": "data/images\\ring\\ring_193.jpg"
+  }
+]
