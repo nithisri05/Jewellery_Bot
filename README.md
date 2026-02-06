@@ -157,7 +157,7 @@ set LLM_MODEL=your_model_name
 ### 5 Run the Application
 uvicorn backend.main:app --reload
 
-### Evaluation
+### 6 Evaluation
 
 The system is evaluated using industry-standard RAG metrics:
 
