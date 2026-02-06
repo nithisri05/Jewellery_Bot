@@ -24,128 +24,72 @@ class MultimodalQueryEngine:
 
         self.model, self.processor = CLIPSingleton.load()
 
-        # 🔹 Supported categories (dynamic)
-        self.supported_categories = sorted(
-            list(set(item["category"].lower() for item in self.metadata))
-        )
-
-        # 🔹 Precompute category embeddings
-        self.category_embeddings = self._embed_categories()
-
-        self.INTENT_THRESHOLD = 0.20
-
-    # ---------------- PATH NORMALIZATION ----------------
-    def _normalize_image_path(self, path: str):
-        path = path.replace("\\", "/")
-        if path.startswith("data/images/"):
-            return path.replace("data/images/", "")
-        return path
-
-    # ---------------- CATEGORY EMBEDDINGS ----------------
-    def _embed_categories(self):
-        inputs = self.processor(
-            text=self.supported_categories,
-            return_tensors="pt",
-            padding=True
-        )
-
-        with torch.no_grad():
-            outputs = self.model.text_model(
-                input_ids=inputs["input_ids"],
-                attention_mask=inputs["attention_mask"]
-            )
-            features = self.model.text_projection(outputs.pooler_output)
-
-        features = features / features.norm(dim=-1, keepdim=True)
-        return features.cpu().numpy()
-
-    # ---------------- INTENT DETECTION ----------------
-    def _detect_intent(self, text: str):
+    # ---------- TEXT EMBEDDING ----------
+    def _embed_text(self, text: str):
         inputs = self.processor(
             text=[text],
             return_tensors="pt",
             padding=True
         )
-
         with torch.no_grad():
-            outputs = self.model.text_model(
+            out = self.model.text_model(
                 input_ids=inputs["input_ids"],
                 attention_mask=inputs["attention_mask"]
             )
-            query_emb = self.model.text_projection(outputs.pooler_output)
+            emb = self.model.text_projection(out.pooler_output)
 
-        query_emb = query_emb / query_emb.norm(dim=-1, keepdim=True)
-        query_vec = query_emb.cpu().numpy()
+        emb = emb / emb.norm(dim=-1, keepdim=True)
+        return emb.cpu().numpy().astype("float32")
 
-        sims = np.dot(query_vec, self.category_embeddings.T)[0]
-        best_idx = int(np.argmax(sims))
-        best_score = float(sims[best_idx])
+    # ---------- IMAGE EMBEDDING ----------
+    def _embed_image(self, image):
+        inputs = self.processor(images=image, return_tensors="pt")
+        with torch.no_grad():
+            out = self.model.vision_model(
+                pixel_values=inputs["pixel_values"]
+            )
+            emb = self.model.visual_projection(out.pooler_output)
 
-        if best_score >= self.INTENT_THRESHOLD:
-            return self.supported_categories[best_idx]
+        emb = emb / emb.norm(dim=-1, keepdim=True)
+        return emb.cpu().numpy().astype("float32")
 
-        return None
-
-    # ---------------- INTENT WITH FOLLOW-UP ----------------
-    def resolve_intent(self, text: str, previous_intent: str | None):
-        intent = self._detect_intent(text)
-        if intent:
-            return intent, "new"
-
-        if previous_intent:
-            return previous_intent, "followup"
-
-        return None, "unsupported"
-
-    # ---------------- FAISS SEARCH ----------------
-    def _search(self, query_vector, top_k=5):
-        scores, indices = self.index.search(query_vector, top_k)
-
+    # ---------- SEARCH ----------
+    def _search(self, vector, top_k=5):
+        _, indices = self.index.search(vector, top_k)
         results = []
+
         for idx in indices[0]:
-            item_id = self.id_map[str(idx)]
-            item = self.metadata_dict[item_id].copy()
-            item["image_path"] = self._normalize_image_path(item["image_path"])
+            item = self.metadata_dict[self.id_map[str(idx)]].copy()
+            item["image_path"] = (
+                item["image_path"]
+                .replace("\\", "/")
+                .replace("data/images/", "")
+            )
             results.append(item)
 
         return results
 
-    # ---------------- MAIN ENTRY (ALL MODALITIES) ----------------
-    def retrieve(self, query_text: str, previous_intent: str | None = None):
-        intent, intent_type = self.resolve_intent(query_text, previous_intent)
+    # ---------- PUBLIC API ----------
+    def retrieve(self, text="", image=None):
+        if image is not None:
+            img_vec = self._embed_image(image)
+            if text.strip():
+                txt_vec = self._embed_text(text)
+                vec = 0.6 * img_vec + 0.4 * txt_vec
+            else:
+                vec = img_vec
+        else:
+            vec = self._embed_text(text)
 
-        if intent is None:
-            return {
-                "supported": False,
-                "suggested_categories": self.supported_categories,
-                "results": [],
-                "explanation": None
-            }
+        vec = vec / np.linalg.norm(vec)
+        results = self._search(vec)
 
-        # Encode query for retrieval
-        inputs = self.processor(
-            text=[query_text],
-            return_tensors="pt",
-            padding=True
-        )
-
-        with torch.no_grad():
-            outputs = self.model.text_model(
-                input_ids=inputs["input_ids"],
-                attention_mask=inputs["attention_mask"]
-            )
-            features = self.model.text_projection(outputs.pooler_output)
-
-        features = features / features.norm(dim=-1, keepdim=True)
-        query_vector = features.cpu().numpy().astype("float32")
-
-        results = self._search(query_vector)
-        explanation = generate_explanation(query_text, results)
+        try:
+            explanation = generate_explanation(text or "image query", results)
+        except Exception:
+            explanation = ""
 
         return {
-            "supported": True,
-            "intent": intent,
-            "intent_type": intent_type,
             "results": results,
             "explanation": explanation
         }
