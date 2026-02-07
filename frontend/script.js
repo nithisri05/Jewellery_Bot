@@ -10,19 +10,23 @@ function addMessage(text, sender = "bot") {
 }
 
 function addResults(results, explanation) {
-  if (explanation) addMessage(explanation, "bot");
-
   const chatBox = document.getElementById("chat-box");
-  results.forEach(item => {
-    const card = document.createElement("div");
-    card.className = "jewel-card";
-    card.innerHTML = `
-      <img src="${API_BASE}/images/${item.image_path}" />
-      <p><strong>Category:</strong> ${item.category}</p>
-    `;
-    chatBox.appendChild(card);
-  });
-  chatBox.scrollTop = chatBox.scrollHeight;
+
+const row = document.createElement("div");
+row.className = "results-row";
+
+results.forEach(item => {
+  const card = document.createElement("div");
+  card.className = "jewel-card";
+  card.innerHTML = `
+    <img src="${API_BASE}/images/${item.image_path}" />
+    <p><strong>Category:</strong> ${item.category}</p>
+  `;
+  row.appendChild(card);
+});
+
+chatBox.appendChild(row);
+chatBox.scrollTop = chatBox.scrollHeight;
 }
 
 window.onload = () => {
@@ -112,3 +116,8 @@ async function sendHandwriting() {
     body: form
   })).json());
 }
+document.getElementById("textInput").addEventListener("keydown", function (e) {
+  if (e.key === "Enter") {
+    sendText();
+  }
+});

@@ -1,163 +1,209 @@
-body {
-  background: #f5f7fb;
-  font-family: Arial, sans-serif;
+/* RESET */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-/* ---------------- CONTAINER ---------------- */
-.chat-container {
-  width: 420px;
-  margin: 40px auto;
-  background: white;
-  border-radius: 14px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+/* BODY */
+body {
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: radial-gradient(circle at top, #111827, #020617);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #f9fafb;
+}
+
+/* APP CONTAINER */
+.app-container {
+  width: 400px;
+  height: 92vh;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(12px);
+  border-radius: 22px;
+  box-shadow: 0 25px 70px rgba(0, 0, 0, 0.6);
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  border: 1px solid rgba(250, 204, 21, 0.2);
 }
 
-/* ---------------- HEADER ---------------- */
-header {
-  padding: 16px;
-  background: #0f172a;
-  color: white;
+/* HEADER */
+.app-header {
+  padding: 18px;
   text-align: center;
+  background: linear-gradient(135deg, #020617, #0f172a);
+  border-bottom: 1px solid rgba(250, 204, 21, 0.2);
 }
 
-header h2 {
-  margin: 0;
+.app-header h1 {
+  font-size: 18px;
+  color: #facc15;
+  letter-spacing: 0.6px;
 }
 
-header p {
-  margin: 6px 0 0;
-  font-size: 13px;
-  opacity: 0.85;
+.app-header p {
+  font-size: 12px;
+  color: #cbd5f5;
 }
 
-/* ---------------- CHAT BOX ---------------- */
-#chat-box {
+/* CHAT BOX */
+.chat-box {
+  flex: 1;
   padding: 16px;
-  height: 420px;
   overflow-y: auto;
-  background: #fafafa;
+  background: #f8fafc;
 }
 
-/* ---------------- MESSAGES ---------------- */
+/* MESSAGES */
 .message {
+  max-width: 78%;
+  padding: 12px 14px;
+  border-radius: 16px;
   margin-bottom: 12px;
-  line-height: 1.4;
+  font-size: 14px;
+  line-height: 1.45;
 }
 
-.user {
-  text-align: right;
-  color: #2563eb;
+.message.bot {
+  background: #1e293b;
+  color: #e5e7eb;
+  border-left: 3px solid #facc15;
+}
+
+.message.user {
+  background: linear-gradient(135deg, #facc15, #fde68a);
+  color: #020617;
+  margin-left: auto;
   font-weight: 500;
 }
 
-.bot {
-  text-align: left;
-  color: #111827;
-}
-
-/* ---------------- INPUT ROW ---------------- */
-.input-row {
+/* HORIZONTAL RESULTS ROW */
+.results-row {
   display: flex;
-  padding: 10px;
-  border-top: 1px solid #ddd;
-  background: #fff;
+  gap: 14px;
+  overflow-x: auto;
+  
 }
 
-.input-row input {
-  flex: 1;
-  padding: 8px 10px;
-  border-radius: 6px;
-  border: 1px solid #ccc;
-  font-size: 14px;
+.results-row::-webkit-scrollbar {
+  height: 6px;
 }
 
-.input-row button {
-  margin-left: 8px;
-  padding: 8px 14px;
-  border: none;
-  background: #2563eb;
-  color: white;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-.input-row button:hover {
-  background: #1d4ed8;
-}
-
-/* ---------------- UPLOAD ROW ---------------- */
-.upload-row {
-  display: flex;
-  justify-content: space-around;
-  padding: 10px;
-  border-top: 1px solid #ddd;
-  background: #f9fafb;
-}
-
-.upload-btn {
-  cursor: pointer;
-  color: #2563eb;
-  font-size: 14px;
-  user-select: none;
-}
-
-.upload-btn:hover {
-  text-decoration: underline;
-}
-
-/* ---------------- IMAGE PREVIEW ---------------- */
-.image-preview {
-  max-width: 200px;
-  margin: 10px 0;
+.results-row::-webkit-scrollbar-thumb {
+  background: #facc15;
   border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* ---------------- JEWELLERY CARD ---------------- */
+.results-row::-webkit-scrollbar {
+  height: 6px;
+}
+
+.results-row::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 10px;
+}
+
+/* JEWELLERY CARD SIZE FOR HORIZONTAL VIEW */
 .jewel-card {
-  background: #ffffff;
-  border-radius: 12px;
+  position: relative;            /* 🔑 anchor for absolute positioning */
+  min-width: 170px;
+  height: 230px;                 /* force equal card height */
+  background: #020617;
+  border-radius: 18px;
   padding: 10px;
-  margin-bottom: 14px;
-  text-align: center;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.jewel-card:hover {
+  transform: translateY(-6px) scale(1.03);
+
 }
 
 .jewel-card img {
   width: 100%;
-  max-height: 180px;
-  object-fit: contain;
-  border-radius: 8px;
-  margin-bottom: 6px;
+  max-height: 150px;
+  object-fit: contain;           /* 🔑 keeps ring/sketch centered */
+  border-radius: 14px;
 }
 
 .jewel-card p {
-  margin: 0;
-  font-size: 14px;
-  color: #111827;
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  font-size: 12px;
+  color: #f8fafc;
+  font-weight: 500;
+
+  white-space: nowrap;      /* ✅ force single line */
+  overflow: hidden;         /* ✅ prevent overflow */
+  text-overflow: ellipsis;  /* ✅ adds ... if too long */
+
+  max-width: 90%;           /* ✅ keeps text inside card */
+  text-align: center;
 }
 
-/* ---------------- QUICK ACTIONS ---------------- */
-.quick-actions {
+/* INPUT SECTION */
+.input-section {
   display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  margin: 10px 0;
+  padding: 10px;
+  background: #020617;
+  border-top: 1px solid rgba(250, 204, 21, 0.25);
 }
 
-.quick-actions button {
-  padding: 6px 12px;
+.input-section input {
+  flex: 1;
+  padding: 12px;
+  border-radius: 14px;
   border: none;
-  border-radius: 6px;
-  cursor: pointer;
-  background: #2563eb;
-  color: white;
-  font-size: 13px;
+  outline: none;
+  background: #020617;
+  color: #f9fafb;
+  font-size: 14px;
 }
 
-.quick-actions button:hover {
-  background: #1d4ed8;
+.input-section input::placeholder {
+  color: #94a3b8;
+}
+
+.input-section button {
+  margin-left: 8px;
+  background: linear-gradient(135deg, #facc15, #fde68a);
+  color: #020617;
+  border: none;
+  padding: 12px 16px;
+  border-radius: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+/* ACTION BUTTONS */
+.actions {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background: #020617;
+}
+
+.action-btn {
+  background: rgba(250, 204, 21, 0.15);
+  color: #facc15;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.action-btn:hover {
+  background: rgba(250, 204, 21, 0.3);
+  transform: translateY(-2px);
 }
